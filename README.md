@@ -1,4 +1,4 @@
-# Fine-Tuning Gemma for Patient Dialogue 🩺
+# AROGYA AI 🩺
 
 This project is a complete pipeline for fine-tuning the `google/gemma-2b` language model to simulate patient-doctor conversations. It leverages parameter-efficient fine-tuning (PEFT) with LoRA to create a specialized chatbot on a large corpus of medical Q&A data, optimized for consumer hardware or free cloud GPUs.
 
